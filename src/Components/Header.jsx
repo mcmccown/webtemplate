@@ -14,7 +14,7 @@ const Header = () => {
         display: "flex",
         justifyContent: "center",
         gap: "2rem",
-        background: green,
+        background: "green",
         padding: "1rem",
         top: 0,
         width: "100%",
